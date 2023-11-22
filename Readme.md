@@ -1,4 +1,4 @@
-# Test automation framework using Selenium with Java, TestNG, Maven
+# Test automation framework using Selenium with Java, Maven, TestNG
 
 This is a sample test automation project to automate web application using Selenium with Java. TestNg is the test framework and Maven is the build automation tool used in this project. Page design patern or Page object model is used to store object repositories and its actions. Few of the Mercury demo web site functionalities are automated.
 
